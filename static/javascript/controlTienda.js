@@ -83,23 +83,3 @@ document.getElementById('agregar').addEventListener('click', function () {
         ui.deleteProduct(e.target)
     })
 })
-
-
-
-
-
-
-
-
-
-
-
-/*
-johanmedina877@gmail.com
-JMedR
-Host: sql10.freesqldatabase.com
-Database name: sql10493361
-Database user: sql10493361
-Database password: LRcna74KIU
-Port number: 3306
-*/
