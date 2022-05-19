@@ -49,7 +49,7 @@ class UI {
 
         // Show in The DOM
         const container = document.querySelector(".container");
-        const app = document.querySelector("#App");
+        const app = document.querySelector("#carrito");
 
         // Insert Message in the UI
         container.insertBefore(div, app);
